@@ -15,8 +15,7 @@
   ],
   "main": [
     "dist/js/materialize.js",
-    "dist/css/materialize.css",
-    "dist/fonts/*"
+    "dist/css/materialize.css"
   ],
   "ignore": [
     "jade/",
@@ -26,7 +25,6 @@
     "bower.json",
     "README.md",
     "images/",
-    "fonts",
     "js/jquery.timeago.js",
     "js/init.js",
     "js/prism.js",
