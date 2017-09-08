@@ -15,7 +15,8 @@
   ],
   "main": [
     "dist/js/materialize.js",
-    "dist/css/materialize.css"
+    "dist/css/materialize.css",
+    "dist/fonts/*"
   ],
   "ignore": [
     "jade/",
